@@ -7,12 +7,12 @@ Currently, I am focused on deeply integrating cybersecurity principles into the 
 - Goal: To merge full-stack development with cybersecurity to build more robust and secure web systems.
 - Teamwork: Solving complex problems through collaboration and a constant drive for innovation are integral parts of my professional identity.
 
----
+
 
 # Connect
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saymamutovsaidkamol@gmail.com)
 
----
+
 
 # SKILLS
 ### PROGRAMMING LANGUAGES
