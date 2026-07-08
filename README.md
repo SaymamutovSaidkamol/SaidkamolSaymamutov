@@ -1,11 +1,11 @@
 # About Me
-- Coding is magic, except instead of saying ‘abracadabra’, you use console.log
-- A fan of minimal designs
-- If you've seen Christopher Nolan's films, you're my twin
-- Good music can turn even the simplest day into a celebration
-- Dark mode isn't a choice, it's a lifestyle
-- I value being alone with myself
-- Every day I think, “tonight I should sleep early”
+Full-stack Developer and Cybersecurity Enthusiast.
+I specialize in developing high-quality, secure digital solutions using modern web technologies. I have extensive experience in building complex and dynamic web applications within the Node.js and React ecosystems.
+Currently, I am focused on deeply integrating cybersecurity principles into the software development lifecycle. I go beyond just writing code; I am committed to ensuring the security, integrity, and efficiency of every system I build.
+
+- Technical Approach: Clean Code, optimized architecture, and secure coding practices.
+- Goal: To merge full-stack development with cybersecurity to build more robust and secure web systems.
+- Teamwork: Solving complex problems through collaboration and a constant drive for innovation are integral parts of my professional identity.
 
 # Connect
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sizning-email@email.com)
