@@ -34,6 +34,7 @@ Currently, I am focused on deeply integrating cybersecurity principles into the 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
+#
 ### LANGUAGES
 - **Uzbek:** Native
 - **English:** B2
