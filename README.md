@@ -33,3 +33,11 @@ Currently, I am focused on deeply integrating cybersecurity principles into the 
 - **Uzbek:** Native
 - **English:** B2
 - **Русский:** A1
+
+### 📊 GitHub Stats
+![Saidkamol's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaymamutovSaidkamol&show_icons=true&theme=radical)
+
+### 💡 Currently working on
+- **EduTest:** AI-driven test platform for educational institutions.
+- **GRP Manufacturing System:** Industrial production monitoring system.
+- Learning advanced penetration testing techniques and network security.
