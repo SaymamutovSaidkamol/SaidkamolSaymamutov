@@ -8,8 +8,7 @@ Currently, I am focused on deeply integrating cybersecurity principles into the 
 - Teamwork: Solving complex problems through collaboration and a constant drive for innovation are integral parts of my professional identity.
 
 # Connect
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sizning-email@email.com)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/telegram_username)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saymamutovsaidkamol@gmail.com)
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
